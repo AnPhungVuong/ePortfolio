@@ -2,7 +2,7 @@ import nkin from "../assets/projects/nkin.png"
 import calculator from "../assets/projects/reactCalculator.png"
 import todo from "../assets/projects/Todo-List.png"
 import weather from "../assets/projects/weather-app.png"
-
+import nike from "../assets/projects/nike.png"
 
 export const data=[
     {
@@ -33,6 +33,12 @@ export const data=[
         github:"https://github.com/AnPhungVuong/weather_API_App",
         live:"https://tmyweatherapp.netlify.app/",
     },
-
+    {
+        id:5,
+        name:"Nike",
+        image:nike,
+        github:"https://github.com/AnPhungVuong/nike-app",
+        live:"https://nikepagereplica.netlify.app/",
+    },
 
 ]
